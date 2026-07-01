@@ -1,16 +1,24 @@
-## Hi there 👋- 🌱 I’m currently learning cybersecurity !!!!
+**##👋 Hello, I'm Ankita Saxena**
+##Cybersecurity enthusiast passionate about protecting systems and solving security challenges.
+## Recently completed a Post Graduate Diploma in Cybersecurity.
 
-<!--
-**SaXen0Shield0WebGuard/SaXen0Shield0WebGuard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Technical Skills**
+Network Scanning & Enumeration
+Vulnerability Assessment
+Basic Penetration Testing
+Packet Analysis
+Linux Fundamentals
+Python (Basics)
 
-Here are some ideas to get you started:
+**Tools**
+Kali Linux | Nmap | Wireshark | Metasploit | Burp Suite | Git | GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Current Focus**
+Web Application Security
+SOC Operations
+Active Directory Security
+Cloud Security
+Capture The Flag (CTF)
+
+**I believe in learning by doing, and this GitHub showcases my cybersecurity labs, projects, notes, and continuous learning journey.**
+**🚀 Looking for opportunities to begin my career as a Cybersecurity Analyst.**
