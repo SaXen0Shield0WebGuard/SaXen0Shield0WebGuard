@@ -1,6 +1,6 @@
 ## **👋 Hello, I'm Ankita Saxena**
 ## Cybersecurity enthusiast passionate about protecting systems and solving security challenges.
-## Recently completed a Post Graduate Diploma in Cybersecurity.
+   **Recently completed a Post Graduate Diploma in Cybersecurity.**
 
 ## **Technical Skills**
 Network Scanning & Enumeration
