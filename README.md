@@ -3,11 +3,11 @@
    **Recently completed a Post Graduate Diploma in Cybersecurity.**
 
 ## **Technical Skills**
-Network Scanning & Enumeration
-Vulnerability Assessment
-Basic Penetration Testing
-Packet Analysis
-Linux Fundamentals
+Network Scanning & Enumeration|
+Vulnerability Assessment|
+Basic Penetration Testing|
+Packet Analysis|
+Linux Fundamentals|
 Python (Basics)
 
 ## **Tools**
